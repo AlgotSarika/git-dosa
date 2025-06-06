@@ -7,3 +7,6 @@
 ## karam Dosa
 *Dosa Batter
 *karam and oil
+
+## Egg Dosa
+*Dosa batter
