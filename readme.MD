@@ -11,3 +11,6 @@
 ## Egg Dosa
 *Dosa batter
 *1/2 eggs, karam , oil
+
+## Panner Dosa
+*Dosa Batter
