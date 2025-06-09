@@ -19,3 +19,4 @@
 *panner
 *mysore masala
 *online and Tamota
+*capsicum
