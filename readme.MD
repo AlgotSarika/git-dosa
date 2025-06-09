@@ -14,3 +14,6 @@
 
 ## Panner Dosa
 *Dosa Batter
+*Ghee
+*kaju paste
+*panner
