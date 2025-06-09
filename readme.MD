@@ -17,6 +17,4 @@
 *Ghee
 *kaju paste
 *panner
-*mysore masala
-*online and Tamota
-*capsicum
+
