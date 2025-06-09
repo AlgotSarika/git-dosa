@@ -18,3 +18,6 @@
 *kaju paste
 *panner
 
+## Masala dosa
+*Dosa batter
+*Masala curry
