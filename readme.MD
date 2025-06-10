@@ -23,3 +23,4 @@
 *Masala curry
 *oil
 *Podi
+*karam
